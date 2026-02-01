@@ -21,5 +21,4 @@ I'm a Catholic, husband, and father. I work on software, hardware, and the squis
 
 ---
 
-*Los Angeles*
-
+*Los Angeles, 2026*
