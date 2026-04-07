@@ -1,24 +1,26 @@
-### Hey, it's me: Tom.
+### Tom Ciszek
 
-I'm a Catholic, husband, and father. I work on software, hardware, and the squishy stuff in between.
+Catholic, husband, father. Building in Los Angeles.
 
-- I'm currently working on [BOMForge](https://bomforge.com), supply chain software for American manufacturers. Helping factories figure out where their parts come from.
-- I'm also building [Saint for a Minute](https://saintforaminute.com), a daily saints database with 125K+ visitors/year.
-- I run [Catholic Social Ventures](https://catholicsocialventures.com), ventures grounded in Catholic Social Teaching.
-- How to reach me:
-  - [tomciszek.com](https://tomciszek.com)
-  - [@ciszek](https://x.com/ciszek) on X
-  - [LinkedIn](https://linkedin.com/in/ciszek)
-  - Signal: ciszek.24
+Previously: Amazon Robotics, Brain Corp, Bird, Twitter. Palantir National Security Fellow.
 
-#### Stuff I'm proud of
+#### What I'm building
 
-- **[Trade Schools Map](https://trade-schools.pages.dev/trade-schools/)** - Interactive map of 1,000+ vocational schools across all 50 states. Helping people find skilled trades programs.
-- **[LA Churches](https://lachurches.org)** - Location-based discovery for finding Mass times, confession, and adoration across Los Angeles.
-- **[Catholic Saints GPT](https://chatgpt.com/g/g-MAdfUqnYi-catholic-saints-blesseds-faith-spirituality)** - Reverent AI chat about saints and Catholic teaching. 5K+ conversations.
-- **[md2fig](https://www.figma.com/community/resume-templates?resource_type=plugins)** - #1 Figma resume plugin. Generates resumes from Markdown.
-- Worked on robotics and manufacturing systems at Amazon Robotics, autonomous robots at Brain Corp, fleet optimization at Bird, and ads research at Twitter.
+- **[BOMForge](https://bomforge.com)** : Supply chain intelligence for American manufacturing. 380K+ US manufacturers indexed by capability, certification, and NAICS code. Raising pre-seed.
+- **[Cognitive Fields](https://cognitivefields.com)** : Intelligence infrastructure for the age of agents. Open source tools for AI-native builders.
+- **[Visit Mary](https://visitmary.com)** : Pray the Rosary with beauty. 20 mysteries, audio narration in English and Spanish, Renaissance masterwork art. Free.
+- **[Stations of the Cross](https://stations.app)** : 3 traditions, 5 languages, audio narration, scriptural meditations. PWA.
+- **[Catholic Social Ventures](https://catholicsocialventures.com)** : 9 Catholic apps. Ventures grounded in Catholic Social Teaching.
+
+#### Open source
+
+- **[Field Theory CLI](https://github.com/afar1/fieldtheory-cli)** : Sync and search your X/Twitter bookmarks locally. Your agent can access them.
+- **[cf-harness](https://github.com/t1c1/cf-harness)** : Run Claude Code agents and skills on local LLMs via Ollama. Port your entire agent fleet to a 5090.
+
+#### Reach me
+
+[tomciszek.com](https://tomciszek.com) / [@ciszek](https://x.com/ciszek) / [LinkedIn](https://linkedin.com/in/ciszek) / Signal: ciszek.24
 
 ---
 
-*Los Angeles, 2026*
+*Los Angeles, April 2026*
