@@ -2,7 +2,7 @@
 
 I'm a Catholic, husband, and father. I work on software, hardware, and the squishy stuff in between.
 
-- I'm currently working on [BOMForge](https://bomforge.com), supply chain software for American manufacturers. Helping factories figure out where their parts come from.
+- I'm currently working on [BOMForge](https://bomforge.com), supply chain software for manufacturers.
 - I'm also building [Saint for a Minute](https://saintforaminute.com), a daily saints database.
 - I built [Visit Mary](https://visitmary.com), a rosary prayer app with audio narration in English and Spanish, Renaissance masterwork art on every step.
 - I run [Catholic Social Ventures](https://catholicsocialventures.com), ventures grounded in Catholic Social Teaching.
